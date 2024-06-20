@@ -25,3 +25,11 @@
 
 **Задание 4**
 
+![изображение](https://github.com/beast86m/11_2_redis_memcached/assets/47268167/5d05b2ed-9f84-4184-9b53-039f61c0aa9b)
+
+![изображение](https://github.com/beast86m/11_2_redis_memcached/assets/47268167/ec5aab1f-49e5-42dc-8069-594067e0ae12)
+
+![изображение](https://github.com/beast86m/11_2_redis_memcached/assets/47268167/e44b4bb8-2240-433c-8c51-4896d9135c37)
+
+![изображение](https://github.com/beast86m/11_2_redis_memcached/assets/47268167/08a2336c-bf53-49e2-b8fc-c3004200baca)
+
